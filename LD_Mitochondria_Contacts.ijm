@@ -8,7 +8,7 @@ Barcelona 08036
 Tel: 34 934037159
 
 ------------------------------------------------
-Gemma Martin (gemmamartin@ub.edu) , Maria Calvo (mariacalvo@ub.edu).
+Gemma Martin (gemmamartin@ub.edu) , Maria Calvo (mariacalvo@ub.edu)
 ------------------------------------------------
 
 Name of Macro: LD_Mitochondria_Contacts (147_LD_and_Mithocondria_V11.ijm)
